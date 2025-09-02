@@ -6,7 +6,7 @@
     <title>Fondo de Imagen</title>
     <style>
         body {
-            background-image: url('Crocs-CS-Hero-Banner-1920.avif');
+            background-image: url('havaianas-publicidad-de-sandalias.jpg');
             background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -126,11 +126,11 @@
     <div class="product-card">
         <img src="01.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>nike</h1>
+            <h1>sandalias </h1>
             <p>
- nike en rosa 
+sandalias blanca 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nikeen rosa chinelas '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20sandalias blanca  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
@@ -138,97 +138,97 @@
  <div class="product-card">
         <img src="02.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>nike</h1>
+            <h1>sandalias </h1>
             <p>
-                nike en blanco con etiqueta roja  
+          sandalias blancas con diseño peludito
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 nike con blanca con etiqueta roja '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 sandalias blancas con diseño peludito '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="03.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> adidas </h1>
+            <h1> sandalias  </h1>
             <p>
-adidas en blanco  
+sandalias con lazo
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20adidas en blanco'" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20sandalias con lazo'" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="04.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>filas  </h1>
+            <h1>sandalias   </h1>
             <p>
-filas en rosa apagado 
+sandalias con diseño de flamingos 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20filas en rosa apagado  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20sandalias con diseño de flamingos '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="05.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>gucci </h1>
+            <h1>sandalias  </h1>
             <p>
-gucci clasicas diseño  
+sandalias color beige
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20guccis '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20color beige sandalias '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
     <div class="product-card">
         <img src="06.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>palm angel     </h1>
+            <h1> sandalia     </h1>
             <p>
-palm engel en blaco con diseño
+sandalias con diseño de mariposas 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20palm engel '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 sandalias con diseño de mariposa '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
             <div class="product-card">
         <img src="07.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> off white   </h1>
+            <h1> sandalias   </h1>
             <p>
-off white diseño camuflado 
+sandalias con diseño
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 off white diseño camuflado '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 sandalias con diseño en blanco '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
         <div class="product-card">
         <img src="08.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> crocs  </h1>
+            <h1> conjunto de sandalias   </h1>
             <p>
-crocs en azul oscuro 
+conjunto de sandalias en negro, rosa, blanco
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20crocs en azul oscuro  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20conjunto de sandalias   '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
            <div class="product-card">
         <img src="09.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> nike  </h1>
+            <h1>dior  </h1>
             <p>
-nike estilo blanco con negro 
+sandalias dior en negro 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike estilo blanco con negro '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 sandalias dior en negro '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
            <div class="product-card">
         <img src="10.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> chinela   </h1>
+            <h1> sandalias   </h1>
             <p>
-chinela azul con diseño 
+sandalias color rosa 
             </p>
             <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20chinela azul con diseño  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
