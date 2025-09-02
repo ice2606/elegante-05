@@ -224,7 +224,7 @@ sandalias dior en negro
             </a>
         </div>
            <div class="product-card">
-        <img src="10.jpg" alt="Imagen del producto" class="product-image">
+        <img src="10.webp " alt="Imagen del producto" class="product-image">
         <div class="product-content">
             <h1> sandalias   </h1>
             <p>
