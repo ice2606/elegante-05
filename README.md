@@ -6,7 +6,7 @@
     <title>Fondo de Imagen</title>
     <style>
         body {
-            background-image: url('havaianas-publicidad-de-sandalias.jpg');
+            background-image: url('f728c-chanclas-para-la-playa.jpg');
             background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
