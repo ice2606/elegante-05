@@ -237,6 +237,6 @@ sandalias color rosa
     <a href="https://ice2606.github.io/elegante-02/" class="back-button">
         Ir atrás
     </a>
-  <a href="https://ice2606.github.io/elegante-02/" class="back-button">
+  <a href="https://ice2606.github.io/elegante-06/" class="back-button">
       tacones 
     </a>
